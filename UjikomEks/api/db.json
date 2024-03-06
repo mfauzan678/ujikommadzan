@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.UeW7jPp3R72qadwTtMtsqQHaE7%26pid%3DApi&f=1&ipt=dd6c3634d15195a5a0c7452244e8aa2fbb0a4eb319659fb6ad89ebf41d47f38d&ipo=images",
+      "id": "1",
+      "nama": "Ayam Bakar",
+      "city": "Jawa Barat",
+      "desc": "Makanan khas Jawa barat yang memiliki cita rasa yang nikmat dengan sensasi smoky dari karena dimasak dengan cara dibakar."
+    },
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.OVoby107o6JtbP86gUlQ3AHaFQ%26pid%3DApi&f=1&ipt=ce55c69a226ac8265f2d16efc288e92cc5a52310b1dbae403df7d4ca38513794&ipo=images",
+      "id": "2",
+      "nama": "Bebek Goreng",
+      "city": "Madura",
+      "desc": "Bebek goreng khas madura memiliki cita rasa gurih asin ditambah manis dari bumbu khasnya"
+    },
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ljZQz-e0AGEY_BhQ1mNIfgHaE_%26pid%3DApi&f=1&ipt=d20faf60d549ddc55d36f271d6dd0ff9511082cf8b4b7cffe286e96cbea54c8f&ipo=images",
+      "id": "3",
+      "nama": "Ikan cakalang",
+      "city": "Manado",
+      "desc": "Makanan khas Manado dengan citarasa rempah asli Indonesia."
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123"
+    }
+  ]
+}

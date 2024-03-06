@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.EZUz0FQPyvr2-tU0oYYtAAHaE8%26pid%3DApi&f=1&ipt=dae1a875dce34cd5fe54f2f0d012a249a620bd86cffbb751cecb661b20f2b680&ipo=images",
+      "id": "1",
+      "nama": "Mie Aceh",
+      "city": "Aceh",
+      "desc": "Makanan khas nusantara dari Aceh ini memiliki tekstur yang tebal dan dicampur dengan irisan daging serta bumbu-bumbu rempah yang kuat. Mie Aceh biasanya disajikan dengan digoreng, direbus atau ditumis. Selain itu juga bisa disajikan dengan tambahan seafood seperti kepiting, udang dan cumi."
+    },
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AI5ZRX671Mfa5yxLKUptBAHaE7%26pid%3DApi&f=1&ipt=534d2394894d7054f3d6ef7f9ed46f67d2e125c94ee1f9e0ba7e3a4e23336e55&ipo=images",
+      "id": "2",
+      "nama": "Bika Ambon",
+      "city": "Sumatera Utara",
+      "desc": "Walaupun namanya Bika Ambon, namun makanan ini bukan berasal dari Ambon. Kue ini berasal dari Sumatera Utara dan biasanya banyak dijual di Kota Medan sebagai oleh-oleh. Kue berwarna kuning ini memiliki tekstur yang lembut dan manis."
+    },
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flemang.sg%2Fwp-content%2Fuploads%2F2021%2F03%2FIMG_2536-1536x1024.jpg&f=1&nofb=1&ipt=e202969de66863da20358f8b4e61d310f5ab66c934350c61eefaea995a9bc6c2&ipo=images",
+      "id": "3",
+      "nama": "Rendang",
+      "city": "Sumatera Barat",
+      "desc": "Makanan khas nusantara dari Sumatera Barat ini pernah dinobatkan sebagai makanan terlezat di dunia. Makanan dari daging sapi yang dimasak dengan santan kelapa serta bumbu rempah selama berjam-jam ini memang begitu terkenal. Rasanya yang gurih dan juga nikmat, sukses membuat makanan khas daerah Sumatera Barat ini begitu disukai banyak orang."
+    },
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.okezone.com%2Fcontent%2F2017%2F06%2F15%2F298%2F1717111%2Fresep-nenek-hmm-lezatnya-menyantap-gulai-belacan-khas-riau-untuk-santap-malam-CSF39rkrOV.jpg&f=1&nofb=1&ipt=3a39304df9c587634253f158fe32710add3a6934db9ba9fd52b835f9818b3761&ipo=images",
+      "id": "4",
+      "nama": "Gulai Belacan",
+      "city": "Riau",
+      "desc": "Gulai Belacan merupakan makanan khas nusantara dari Riau. Belacan merupakan nama lain dari terasi yang begitu dikenal oleh orang Sumatera. Makanan khas daerah Riau ini dibuat dari bahan dasar berupa kuah yang telah dicampur dengan terasi. Selain itu terdapat pula daging, udang atau ikan."
+    },
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.gnAZrcsjx50gRvLmGbxsoQHaF5%26pid%3DApi&f=1&ipt=bf0621b42ecedc67808b15ec5e8af288e802610f3d06d68432666d804ee2a894&ipo=images",
+      "id": "5",
+      "nama": "Otak-otak",
+      "city": "Riau",
+      "desc": "Makanan khas nusantara lainnya berasal dari daerah Kepulauan Riau, yaitu otak-otak. Makanan tradisional yang terbuat dari bahan utama seafood ini merupakan makanan hasil laut yang diolah dan dibungkus dengan daun pisang."
+    },
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.DVEjrbxicWzQkP9Wq5W8zAHaE7%26pid%3DApi&f=1&ipt=5c9117a48a02d479fd285a9ec32f416bc56c12e5595d0d0cf0c59d620da39431&ipo=images",
+      "id": "6",
+      "nama": "Mie Bangka",
+      "city": "Bangka",
+      "desc": "Makanan khas nusantara dari daerah Bangka ini tentu saja berbahan dasar mi. Dihidangkan dengan mencampurkannya dengan kuah yang terbuat dari bumbu ikan, udang, atau cumi, dan ditaburi dengan kecambah serta mentimun."
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123"
+    }
+  ]
+}
